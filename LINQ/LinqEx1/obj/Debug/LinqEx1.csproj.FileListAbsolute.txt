@@ -1,0 +1,19 @@
+\\fs1\HomeDrives\ptucker\2009-2010\Fall2009\CS374\Projects\LinqEx1\LinqEx1\bin\Debug\LinqEx1.exe
+\\fs1\HomeDrives\ptucker\2009-2010\Fall2009\CS374\Projects\LinqEx1\LinqEx1\bin\Debug\LinqEx1.pdb
+\\fs1\HomeDrives\ptucker\2009-2010\Fall2009\CS374\Projects\LinqEx1\LinqEx1\obj\Debug\ResolveAssemblyReference.cache
+\\fs1\HomeDrives\ptucker\2009-2010\Fall2009\CS374\Projects\LinqEx1\LinqEx1\obj\Debug\LinqEx1.exe
+\\fs1\HomeDrives\ptucker\2009-2010\Fall2009\CS374\Projects\LinqEx1\LinqEx1\obj\Debug\LinqEx1.pdb
+C:\Users\ptucker\Desktop\LINQ\LinqEx1\obj\Debug\LinqEx1.exe
+C:\Users\ptucker\Desktop\LINQ\LinqEx1\bin\Debug\LinqEx1.exe
+C:\Users\ptucker\Desktop\LINQ\LinqEx1\bin\Debug\LinqEx1.pdb
+C:\Users\ptucker\Desktop\LINQ\LinqEx1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ptucker\Desktop\LINQ\LinqEx1\obj\Debug\LinqEx1.pdb
+\\cs1\cs_classdata\374\LINQ\LinqEx1\obj\Debug\LinqEx1.exe
+\\cs1\cs_classdata\374\LINQ\LinqEx1\obj\Debug\LinqEx1.pdb
+Z:\CS374 Database Management\Homework\EX05\LINQ\LinqEx1\obj\Debug\LinqEx1.exe
+Z:\CS374 Database Management\Homework\EX05\LINQ\LinqEx1\bin\Debug\LinqEx1.exe
+Z:\CS374 Database Management\Homework\EX05\LINQ\LinqEx1\bin\Debug\LinqEx1.pdb
+Z:\CS374 Database Management\Homework\EX05\LINQ\LinqEx1\obj\Debug\LinqEx1.csprojResolveAssemblyReference.cache
+Z:\CS374 Database Management\Homework\EX05\LINQ\LinqEx1\obj\Debug\LinqEx1.pdb
+X:\bhuston16\CS374 Database Management\Homework\EX05\LINQ\LinqEx1\obj\Debug\LinqEx1.exe
+X:\bhuston16\CS374 Database Management\Homework\EX05\LINQ\LinqEx1\obj\Debug\LinqEx1.pdb
